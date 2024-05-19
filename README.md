@@ -1,11 +1,11 @@
 # Overview
 ## Collaborator 
-Wittawin, Thakrit, Polapat, Aarnav
+Wittawin Upariputtipong, Thakrit Wongcharoensangsiri, Polapat Chartphanich, Aarnav Gogri
 ## Description 
-This project focus on using machine learning to predict the quantity sold and selling price of a wholesale fashion apparel manufacturer. More details in the presentation slide attached below. 
+This project focus on using machine learning to predict the quantity sold and selling price of a wholesale fashion apparel manufacturer called Urban Edge Apparel. More details in the presentation slide attached below. 
 # Table of Content
 - Presentation Slides (highly recommended)
-- Clarification (required, as we found some errors when uploading)
+- Clarification (required, as we found some errors when uploading from Github)
 - Installation 
 # Presentation Slide
 Link: https://www.canva.com/design/DAGFpi-LOb0/9ej0ZRTgfrzU7x3B7RaCRQ/view?utm_content=DAGFpi-LOb0&utm_campaign=designshare&utm_medium=link&utm_source=editor
