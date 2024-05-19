@@ -1,6 +1,40 @@
+# Overview
 ## Collaborator 
 Wittawin, Thakrit, Polapat, Aarnav
 ## Description 
 This project focus on using machine learning to predict the quantity sold and selling price of a wholesale fashion apparel manufacturer. More details in the presentation slide attached below. 
+# Table of Content
+- Presentation Slides (highly recommended)
+- Clarification (required, as we found some errors when uploading)
+- Installation 
 # Presentation Slide
 Link: 
+# Clarification
+Note that if you try to open the notebook from github, you will see an error. Don't worry, please follow these steps. 
+- 
+# Installation 
+Follow these steps to set up the project on your local machine.
+
+### Prerequisites
+
+Ensure you have the following installed:
+- Python 3.7 or higher
+- pip (Python package installer)
+
+### Clone the Repository
+
+Clone the project repository from GitHub:
+
+```bash
+git clone https://github.com/winupwhatsup/UW-Datathon-2024.git
+cd UW-Datathon-2024
+
+
+
+
+
+
+
+
+
+
