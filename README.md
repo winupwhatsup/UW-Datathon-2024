@@ -10,7 +10,7 @@ This project focus on using machine learning to predict the quantity sold and se
 # Presentation Slide
 Link: https://www.canva.com/design/DAGFpi-LOb0/9ej0ZRTgfrzU7x3B7RaCRQ/view?utm_content=DAGFpi-LOb0&utm_campaign=designshare&utm_medium=link&utm_source=editor
 # Clarification
-Note that if you try to open the notebook from github, you will see an error. Don't worry, 
+Note that if you try to open the notebook from github, you will see a message "An error has occured". Don't worry, go to upper right of your screen and click on download icon, called "Download raw file". Then it will forward you to your IDE such as VSCode. After that, you will be able to run the code correctly. Don't forget to install packages too!!
 # Installation 
 Follow these steps to set up the project on your local machine.
 
